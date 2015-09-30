@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="99">NCR (National Capital Region)</string>
+<string name="98">CAR (Cordillera Administrative Region)</string>
+<string name="01">REGION I (Ilocos Region)</string>
+<string name="02">REGION II  (Cagayan Valley)</string>
+<string name="03">REGION III (Central Luzon)</string>
+<string name="04">REGION IV-A (CALABARZON)</string>
+<string name="14">REGION IV-B (MIMAROPA)</string>
+<string name="05">REGION V (Bicol Region)</string>
+<string name="06">REGION VI (Western Visayas)</string>
+<string name="07">REGION VII (Central Visayas)</string>
+<string name="08">REGION VIII (Eastern Visayas)</string>
+<string name="09">REGION IX (Zamboanga Peninsula)</string>
+<string name="10">REGION X (Northern Mindanao)</string>
+<string name="11">REGION XI (Davao Region)</string>
+<string name="12">REGION XII (Soccsksargen)</string>
+<string name="13">REGION XIII (Caraga)</string>
+<string name="97">ARMM  (Autonomous Region in Muslim Mindanao)</string>
+</resources>

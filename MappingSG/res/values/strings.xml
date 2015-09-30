@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MappingSG</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSetupNow">Setup Now</string>
+    <string name="tvEnterNumberCaption">Please enter your number</string>
+    <string name="tvSelectProvince">Please select your province</string>
+    <string name="tvInitialSetup">Initial Setup</string>
+    <string name="tvRegionCaption">Region *</string>
+    <string name="tvProvinceCaption">Province *</string>
+    <string name="tvCityCaption">City/Municipality *</string>
+    <string name="tvMunicipalityCaption">Municipality *</string>
+    <string name="tvBarangayCaption">Barangay *</string>
+    <string name="tvStreetCaption">Street *</string>
+    <string name="tvLotBlockCaption">Lot/Block *</string>
+    <string name="tvBuildingNameCaption">Building Name *</string>
+    <string name="tvSwipeNextCaption">&lt;-- Swipe to left for next page </string>
+    <string name="tvCompanyNameCaption">Company Name *</string>
+    <string name="tvContactNumberCaption">Contact Number *</string>
+    <string name="tvEstablishmentLocationCaption">\nEstablishment Location *</string>
+    <string name="tvPhysicalStructureCaption">\nPhysical Structure *</string>
+    <string name="tvNumberOfEmployeeCaption">\nNumber of employee *</string>
+    <string name="tvNumberOfBranchesCaption">Number of branches *</string>
+    <string name="tvPriorityIndustryCaption">\nPriority Industry *</string>
+    <string name="tvOtherIndustriesCaption">\nOther Industries *</string>
+    <string name="optPredominantCom">Predominantly  Commercial</string>
+    <string name="optPredominantRes">Predominantly Residential</string>
+    <string name="optLeasedSpace">Leased Space in a commercial building</string>
+    <string name="optSoleLessor">Sole lessor of commercial building</string>
+    <string name="optOccupantCompany">Occupant in company owned</string>
+    <string name="optSoleOccupant">Sole Occupant of company owned commercial building</string>
+    <string name="optSpaceLocated">Space is located within the household premises</string>
+    <string name="optAccommodationRooms">Accommodation/Rooms for Transient</string>
+    <string name="optEducationalVocational">Educationan/Vocational/Technical Trainings</string>
+    <string name="optGovermentCity">Government/City Administration</string>
+    <string name="optFinancialManagement">Financial Management, Lending, Investment Funds and the like</string>
+    <string name="optHospitalHealth">Hospital and Health Care Facilities</string>
+    <string name="optGoodManufacturing">Good Manufacturing (from raw material to ready-to-use goods)</string>
+    <string name="optLivestockAgricultural">Livestock/Agricultural Products</string>
+    <string name="optPowerSupply">Power Supply Distribution, Fuel Extraction, Refinery and Distribution</string>
+    <string name="optWaterSupply">Water Supply/Sewage Treatment and Waste Management</string>
+    <string name="optWholesaleRetail">Wholesale and retail trade</string>
+    <string name="optConstruction">Construction</string>
+    <string name="optLogisticsTransport">Logistic/Transport/Storage</string>
+    <string name="optFoodService">Food Service</string>
+    <string name="optInformationCommunication">Information and Communication</string>
+    <string name="optProfessionalScientific">Professional/Scientific/Technical Service</string>
+    <string name="optAdministrativeSupport">Administrative Support Service</string>
+    <string name="optArtsEntertainment">Arts/Entertainment/Recreation</string>
+    <string name="optMiningQuarrying">Mining Quarrying</string>
+
+</resources>
